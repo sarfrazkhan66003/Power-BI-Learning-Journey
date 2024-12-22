@@ -1,4 +1,4 @@
-# Power-BI-Learning-Journey
+# Power-BI-Journey
 
 📝 Description:
 This repository showcases my learning progress in Power BI, starting from basic data visualizations to advanced dashboards and reports. The superstore_data_pw_demo_english.pbix file is part of the project, focusing on insights from the Superstore dataset.
